@@ -1,1 +1,2 @@
-i
+import SAM
+SAM.SrxBuy()
